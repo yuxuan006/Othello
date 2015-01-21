@@ -159,6 +159,7 @@ def nextMove(board, color, time):
 				#update best move
 				best_move = move
 	return best_move
+	
 		
 			
 	
